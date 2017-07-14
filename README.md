@@ -1,2 +1,2 @@
 # Code
-Algorithm
+Algorithms
